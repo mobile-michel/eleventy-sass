@@ -1,0 +1,15 @@
+{
+  "name": "sass-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eleventy.config.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eleventy-sass": "^2.2.1"
+  }
+}
