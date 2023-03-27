@@ -1,1 +1,13 @@
+// Default variable overrides
+$body-bg: #640000;
+$body-color: #edffe9;
+
+$primary: #296b1c;
+$danger: #ffbbf4;
+
+main {
+    color: $primary;
+    background-color: $danger
+}
+
 @import "../../node_modules/bootstrap/scss/bootstrap";
